@@ -9,7 +9,7 @@ using namespace std;
 //     cout<<"value of x : " << x << endl;
 //     return 0;
 // }
-
+// Adding extra codes
 // if else
 // q. to find whether you're an adult or not,
 // int main (){
