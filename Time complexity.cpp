@@ -13,7 +13,7 @@ for (int i = 1; i < n; i++)
 
 
 //O(4n*3+3n*2+8) = O(n*3+n*2)= O(n*3)
-
+?? CHECK IT
 // questions :- 
 // In nested loop, no. of loops encoded inside starts getting multiplied to the number of times they're running.
 for (int i = 0; i < n; i++)
