@@ -18,6 +18,7 @@ vector<int>v(5); // This implies that a vector is created of size 5 & it is curr
 // acessing it
 // vectors are accessed in similar way as we acess arrays.
 cout<<v[0]<< endl;
+cout<<v[1]<<endl;
 cout<<v.back() << " "; // it represents the back element or last element of the set.
 // itertor points the memory access , v.begin points memory, so if we're pointing v.memory then it points memory address.
 // *(v.begin)= It directly gives the element. V.begin gives the memory & stars points the address.
