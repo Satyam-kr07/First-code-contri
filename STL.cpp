@@ -8,7 +8,7 @@ void explainvector(){
     v.push_back(1); // It pushes value 1, in vector v = {1}
     v.emblace_back(2); // it extends the size of array, v={1,2}
 }
-// Vectors in pair
+// Vectors in pair done
 vector<pair<int,int>>vec;
 v.push_back({1,2});
 v.emplace_back(1,2); // no need to add curly braces as it automatically assumes that vector is present & just adds up.
