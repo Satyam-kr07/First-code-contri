@@ -5,7 +5,7 @@
 // avoid lower values
 for (int i = 1; i < n; i++)
 {
-    cout<<"hey"<<endl;
+    cout<<"hey"<<endl; hu
 }
 // In this loop 3 things are happening, increment(i++),check (i<5) & print.
 // So, hey is printed 5 times & on each step 3 things are happening. 5*3=15. so 15 things in total
