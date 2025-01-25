@@ -4,7 +4,7 @@
 // t.e. N%10, we can extract the number t.e 9 again 
 // it will come 778.9 & if we take int of it then it will automatically become 778.
 // again 778%10, then again 8 will be extracted & it will come as 77.8,t.e 77.8 , int will come to 77
-
+;s
 // Lets say we want to keep count of the digits then we can introduce the count variable.
 
 
