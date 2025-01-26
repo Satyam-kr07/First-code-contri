@@ -26,7 +26,7 @@
         
 //         int number;
 //         int count=0;
-//         while(N>0){
+//         while(N>0){ j
 //             number=N%10;
 //             if( N%number==0){
                 
