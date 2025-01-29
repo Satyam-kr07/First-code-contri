@@ -2,7 +2,7 @@
 #include<iostream>
 
 // vectors
-de
+dehn
 void explainvector(){
     vector<int>v; // cointainer made of size v
     v.push_back(1); // It pushes value 1, in vector v = {1}
