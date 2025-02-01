@@ -12,7 +12,7 @@ for (int i = 1; i < n; i++)
 // Time complexity = O(15) or preffered way , O(n*3)= O(n)
 
 
-//O(4n*3+3n*2+8) = O(n*3+n*2)= O(n*3)
+//O(4n*3+3n*2+8) = O(n*3+n*2)= O(n*3)dfsd
 ?? CHECK IT
 // questions :- 
 // In nested loop, no. of loops encoded inside starts getting multiplied to the number of times they're running.
