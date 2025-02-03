@@ -7,7 +7,7 @@
 ;s
 // Lets say we want to keep count of the digits then we can introduce the count variable.
 
-
+swef
 
 // pseudo code :- Take input from the user,
 // int count=0;
