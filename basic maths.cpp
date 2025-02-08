@@ -9,7 +9,7 @@
 
 swef
 
-// pseudo code :- Take input from the user,
+// pseudo code :- Take input from the user,kk
 // int count=0;
 // while (N>0)
 // {
