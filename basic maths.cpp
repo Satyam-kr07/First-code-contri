@@ -14,7 +14,7 @@
 // while (N>0)
 // {
 //     lastdigit= N%10 // takes out the remainder
-//     cout<<lastdigit;
+//     cout<<lastdigit;dkdw;
 //     count=count+1
 //     N=N/10
 // }
