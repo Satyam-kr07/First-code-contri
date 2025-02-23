@@ -8,7 +8,7 @@
 // Lets say we want to keep count of the digits then we can introduce the count variable.
 
 //sweflkn
-
+dw
 // pseudo code :- Take input from the user,kk
 // int count=0;
 // while (N>0)
